@@ -1,0 +1,30 @@
+h1 {
+    color: blueviolet;
+    background-color: rgba(4, 4, 180, 0.904);
+}
+
+h3 {
+    color: rgb(7, 61, 209);
+}
+
+p {
+    color: blueviolet;
+}
+
+ul {
+    color: rgb(75, 70, 29);
+}
+
+ol {
+    color: rgb(119, 77, 14);
+}
+
+* {
+    background: rgb(117, 173, 211);
+    font-family:  cursive;
+}
+
+.a {
+    color: blueviolet;
+}
+
