@@ -1,14 +1,16 @@
 h1 {
-    color: blueviolet;
+    color: rgb(219, 194, 7);
     background-color: rgba(4, 4, 180, 0.904);
+    text-align: center;
 }
 
 h3 {
     color: rgb(7, 61, 209);
+    border-bottom: 2px solid green;
 }
 
 p {
-    color: blueviolet;
+    color: rgb(7, 61, 209);
 }
 
 ul {
@@ -20,11 +22,36 @@ ol {
 }
 
 * {
-    background: rgb(117, 173, 211);
+    background-color: rgb(117, 173, 211);
     font-family:  cursive;
 }
 
 .a {
-    color: blueviolet;
+    color: (7, 61, 209);
+    background-color: rgb(10, 152, 177);
+    display: block;
+    margin-top: -22px;
+    text-align: center;
 }
 
+.list {
+    border: 5px double black;
+    display: flex;
+}
+
+.li {
+    margin: auto;
+}
+
+a {
+  font-size: 30px;
+
+}
+
+img {
+    border: 5px dashed rgb(7, 61, 209)
+}
+
+.A {
+    color: pink;
+}
